@@ -1,0 +1,64 @@
+.div0{
+
+}
+
+.div1{
+	display: inline-block;
+	background-repeat: no-repeat;
+	width: 40%;
+	color: grey;
+}
+
+.div2{
+	margin: 20px ;
+	color: grey;
+
+}
+
+.h2 {
+	text-align: center;
+	display: inline-block;
+	width: 20%;
+	padding: 10px;
+}
+
+.img {
+	float: left;
+}
+
+.h3{
+	text-align: left;
+	display: inline-block;
+	width: 30%;
+	color: #BDBDBD ;
+}
+
+.hr{
+	float: left;
+	width: 44%
+}
+
+.img1 {
+	display: inline-block;
+	width: 70px
+
+}
+
+.h3_1 {
+	padding: 5px;
+	float: left;
+	width: 10%;
+	color: grey;
+}
+
+.h3_2 {
+	display: inline-block;
+	text-align: center;
+	width: 20%;
+}
+
+.h3_3 {
+	display: inline-block;
+	text-align: right;
+	color: grey;
+}
